@@ -1,0 +1,13 @@
+02/24/2018:
+  in Main library,
+  (about 2pm, before COMP7507)
+  finish the generic perceptron
+
+  in HKU CS lab, 
+  (10:46pm now)
+  finish the generic hard-margin SVM_v2 by python, CVXOPT is used... 
+    - (the rediculous and ambiugous dimension for its variables...)
+    - (hope the official tutorial could add each variables' dimension!)
+    - (I think w_0 should be also put in w_tide in constraint....)
+    - !!! need to find a generic way to plot 3-D scatter and an automatic method to plot 2-D and 3-D liner lines... 
+    ---(troublesome to calculate it by hand every time)
