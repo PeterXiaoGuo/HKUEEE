@@ -11,3 +11,12 @@
     - (I think w_0 should be also put in w_tide in constraint....)
     - !!! need to find a generic way to plot 3-D scatter and an automatic method to plot 2-D and 3-D liner lines... 
     ---(troublesome to calculate it by hand every time)
+
+02/25/2018:
+  in HKU CS lab,
+  finish nearly all content of soft-margin SVM v2 by python from scratch. Generic model for data dimensions.
+    - the whole night till 11:00 pm.
+    - finsh all back in bed. 0:30 am 02/26/2018 : )
+    - cheers
+    - hope I can concentrate on data mining A tomorrow morning.
+  
