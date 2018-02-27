@@ -2,23 +2,25 @@
 
 ELEC7080 night class
 
-Prof.Yen: 
-  - a sentiment polarity with a probability helps to read news (i.e. 70% Positive)
-  - object: to deal with finance news related to this company 
-  - Risk modeling: market sentiment estimation could be used to analyze the chatting logs from social media 
-    (i.e. online social-media communicaitons related to bitcoin) 
-    the market's consensus, to preidct the upcoming risk.
-  - 
-  -- trade scheduling system
-  the trading volume: V : 
-    -- use the first 2-min vol. to calculate the next-min volume;
-    --- utilize long forecasting and shor adjustment;
-    ---- i.e.: use the following items to predict trading volumes.
-    -------- futrues 
-    -------- market sentiment 
-    
-  the volatility: sigma
-      -- 
- 
- --- trading volume goes up, volatility goes down and bid-ask spread smaller;
+Assessed the paragraph sentiment analyzer, binary results (postive or negative) 
+
+  Comment by Prof.Yen: 
+    - a sentiment polarity with a probability helps to read news (i.e. 70% Positive)
+    - object: to deal with finance news related to this company 
+    - Risk modeling: market sentiment estimation could be used to analyze the chatting logs from social media 
+      (i.e. online social-media communicaitons related to bitcoin) 
+      the market's consensus, to preidct the upcoming risk.
+    - 
+    -- trade scheduling system
+    the trading volume: V : 
+      -- use the first 2-min vol. to calculate the next-min volume;
+      --- utilize long forecasting and shor adjustment;
+      ---- i.e.: use the following items to predict trading volumes.
+      -------- futrues 
+      -------- market sentiment 
+
+    the volatility: sigma
+        -- 
+
+   --- trading volume goes up, volatility goes down and bid-ask spread smaller;
   
