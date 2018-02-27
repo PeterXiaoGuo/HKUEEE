@@ -13,6 +13,10 @@ Prof.Yen:
   the trading volume: V : 
     -- use the first 2-min vol. to calculate the next-min volume;
     --- utilize long forecasting and shor adjustment;
+    ---- i.e.: use the following items to predict trading volumes.
+    -------- futrues 
+    -------- market sentiment 
+    
   the volatility: sigma
       -- 
  
